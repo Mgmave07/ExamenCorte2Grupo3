@@ -63,7 +63,7 @@
             // 
             // btn
             // 
-            this.btn.Location = new System.Drawing.Point(232, 136);
+            this.btn.Location = new System.Drawing.Point(239, 135);
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(114, 35);
             this.btn.TabIndex = 3;
@@ -74,7 +74,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(716, 450);
             this.Controls.Add(this.btn);
             this.Controls.Add(this.cmbUrgencia);
             this.Controls.Add(this.tbNombre);
