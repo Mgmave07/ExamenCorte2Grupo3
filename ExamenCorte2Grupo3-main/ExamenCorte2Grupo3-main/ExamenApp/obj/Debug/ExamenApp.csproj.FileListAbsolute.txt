@@ -1,0 +1,10 @@
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\bin\Debug\ExamenApp.exe.config
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\bin\Debug\ExamenApp.exe
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\bin\Debug\ExamenApp.pdb
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.csproj.AssemblyReference.cache
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.Form1.resources
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.Properties.Resources.resources
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.csproj.GenerateResource.cache
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.csproj.CoreCompileInputs.cache
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.exe
+C:\Users\noelg\Downloads\ExamenCorte2Grupo3-main\ExamenCorte2Grupo3-main\ExamenApp\obj\Debug\ExamenApp.pdb
