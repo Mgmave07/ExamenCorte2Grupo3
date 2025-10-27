@@ -63,9 +63,9 @@
             // 
             // btn
             // 
-            this.btn.Location = new System.Drawing.Point(239, 135);
+            this.btn.Location = new System.Drawing.Point(249, 136);
             this.btn.Name = "btn";
-            this.btn.Size = new System.Drawing.Size(114, 35);
+            this.btn.Size = new System.Drawing.Size(114, 25);
             this.btn.TabIndex = 3;
             this.btn.Text = "Agregar paciente";
             this.btn.UseVisualStyleBackColor = true;
@@ -74,7 +74,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(716, 450);
+            this.ClientSize = new System.Drawing.Size(716, 525);
             this.Controls.Add(this.btn);
             this.Controls.Add(this.cmbUrgencia);
             this.Controls.Add(this.tbNombre);
